@@ -28,6 +28,6 @@ Tecnologías usadas en el proyecto:
 *   XGBoost
 *   R Studio
 
-<h2>💻 Resultados finales</h2>
+<h2>🛡️ Resultados finales</h2>
 
 El algoritmo XGBoost, Regresión logística y Arbol CART son los que tuvieron mejores resultados en cuestión de sensibilidad siendo XGBoost el mejor con 97.61%. A nivel de AUC de igual forma están bastante proximos entre sí siendo el de Arbol CART el mejor con 96.12%.
